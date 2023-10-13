@@ -1,7 +1,7 @@
 <h2>BroccoliHero13</h2>
 <hr/>
 
-<img src="https://github.com/broccolihero13/broccolihero13/blob/main/broccoli_glasses.png?raw=true" width="50"> 
+<img src="https://github.com/broccolihero13/broccolihero13/blob/main/embed_glasses.png?raw=true" width="450"> 
 
 
 ---
