@@ -8,6 +8,7 @@
 **Professional Interests:** Chrome Extension Development, Rails Applications, Django Applications  
 **Hobbies:** Ice Hockey, Pickleball, Poker, Programming, and Tennis  
 
+**My 2024 Goals:** Try out Elixir, generate and publish an online web portfolio, and deploy a publicly available app.
 ---
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolihero13&langs_count=5&theme=tokyonight)]()
 
