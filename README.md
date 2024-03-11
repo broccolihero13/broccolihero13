@@ -13,5 +13,5 @@
 - Generate and publish an online web portfolio, and
 - deploy a publicly available app.
 ---
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolihero13&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolihero13&hide=css,scss,html&langs_count=5&theme=tokyonight)]()
 
