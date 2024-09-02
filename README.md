@@ -9,9 +9,10 @@
 **Hobbies:** Ice Hockey, Pickleball, Poker, Programming, and Tennis  
 
 *My 2024 Goals:* 
-* [x] <span style="color : green">Try out Elixir.</span>
-* [x] <span style="color : green">Generate and publish an online web portfolio.</span>
-* [ ] <span style="color : gold">Deploy a publicly available app.</span>
+
+* [x] $${\color{green}Try \space out \space Elixir.}$$
+* [x] $${\color{green}Generate \space and \space publish \space an \space online \space web \space portfolio.}$$
+* [ ] $${\color{gold}Deploy \space a \space publicly \space available \space app.}$$
 ---
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolihero13&hide=procfile,coffeescript,css,scss,html&langs_count=5&theme=tokyonight)]()
 
