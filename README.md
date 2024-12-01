@@ -12,7 +12,7 @@
 
 * [x] $${\color{green}Try \space out \space Elixir.}$$
 * [x] $${\color{green}Generate \space and \space publish \space an \space online \space web \space portfolio.}$$
-* [ ] $${\color{gold}Deploy \space a \space publicly \space available \space app.}$$
+* [x] $${\color{green}Deploy \space a \space publicly \space available \space app.}$$
 ---
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolihero13&hide=procfile,coffeescript,css,scss,html&langs_count=5&theme=tokyonight)]()
 
