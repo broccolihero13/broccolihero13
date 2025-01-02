@@ -8,11 +8,11 @@
 **Professional Interests:** Chrome Extension Development, Rails Applications, Django Applications  
 **Hobbies:** Ice Hockey, Pickleball, Poker, Programming, and Tennis  
 
-*My 2024 Goals:* 
+*My 2025 Goals:* 
 
-* [x] $${\color{green}Try \space out \space Elixir.}$$
-* [x] $${\color{green}Generate \space and \space publish \space an \space online \space web \space portfolio.}$$
-* [x] $${\color{green}Deploy \space a \space publicly \space available \space app.}$$
+* [ ] $${\color{yellow}Read \space a \space technical \space book \space about \space Ruby/Rails \space cover \space to \space cover.}$$
+* [ ] $${\color{yellow}Migrate \space public \space app \space to \space Rails \space 8.}$$
+* [ ] $${\color{yellow}Contribute \space to \space a \space Ruby \space Gem.}$$
 ---
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=broccolihero13&hide=procfile,coffeescript,css,scss,html&langs_count=5&theme=tokyonight)]()
 
